@@ -13,6 +13,6 @@ public class Bot {
     }
     public String toString()
     {
-        return "Hi"+name"!"
+        return "Hi"+name"!";
     }
 }
